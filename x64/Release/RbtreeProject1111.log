@@ -1,0 +1,51 @@
+﻿  main.cpp
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(30,62): warning C4838: Преобразование из "char" в "wchar_t" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(30,68): warning C4838: Преобразование из "char" в "wchar_t" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(31,26): warning C4838: Преобразование из "char" в "wchar_t" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(31,33): warning C4838: Преобразование из "char" в "wchar_t" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(31,40): warning C4838: Преобразование из "char" в "wchar_t" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(31,47): warning C4838: Преобразование из "char" в "wchar_t" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(212,32): warning C4566: символ, представленный универсальным именем символа "\u2550", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(187,48): warning C5307: "System::String::String(wchar_t,int)": аргумент (1) преобразован из "char" в "wchar_t". Отсутствует префикс кодировки "L" для символьного литерала?
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(323,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(371,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(1552,102): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(1566,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(1574,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(1676,49): warning C5307: "System::String::String(wchar_t,int)": аргумент (1) преобразован из "char" в "wchar_t". Отсутствует префикс кодировки "L" для символьного литерала?
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\MyForm.h(1798,35): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  RBTree.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  RbtreeProject1111.vcxproj -> C:\Users\user\source\repos\RbtreeProject1111\x64\Release\RbtreeProject1111.exe

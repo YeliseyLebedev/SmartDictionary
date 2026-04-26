@@ -1,0 +1,3 @@
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\x64\Release\RbtreeProject1111.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\x64\Release\RbtreeProject1111.MyForm.resources
+C:\Users\user\source\repos\RbtreeProject1111\RbtreeProject1111\x64\Release\RbtreeProject1111.vcxproj.GenerateResource.cache
